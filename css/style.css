@@ -1,0 +1,78 @@
+.red
+{
+    background-color: red;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+    
+}
+
+.orange
+{
+    background-color: orange;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+}
+
+.yellow
+{
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+}
+
+.green
+{
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+}
+
+.blue
+{
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+}
+
+.indigo
+{
+    background-color: indigo;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+}
+
+.violet
+{
+    background-color: violet;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+    writing-mode:vertical-lr
+}
+
+p
+{
+    color: black
+}
+
+body
+{
+    background-color: aqua;
+}
+
+h1{
+    color: white;
+}
