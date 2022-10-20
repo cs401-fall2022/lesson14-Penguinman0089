@@ -1,3 +1,6 @@
+"use strict";
+exports.__esModule = true;
+exports.turnRed = exports.hello = void 0;
 /**
  * This returns the string hello
  * @returns the String hello
@@ -5,6 +8,7 @@
 function hello() {
     return "Hello World";
 }
+exports.hello = hello;
 ;
 /**
  * turns demo red
@@ -20,5 +24,4 @@ function turnRed() {
         }
     }
 }
-export { hello, turnRed };
-//# sourceMappingURL=app.js.map
+exports.turnRed = turnRed;
